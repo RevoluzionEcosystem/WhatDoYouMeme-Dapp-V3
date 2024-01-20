@@ -6,7 +6,7 @@ import { bsc } from 'wagmi/chains'
 
 import info from "../data/lang/en/general.json"
 
-const projectId = process.env.NEXT_PUBLIC_PROJECT_ID
+const projectId = process.env.PROJECT_ID
 const siteUrl = process.env.SITE_URL
 
 const chains = [ bsc ]
