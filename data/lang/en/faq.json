@@ -1,0 +1,142 @@
+{
+    "raffle": [
+        {
+            "Q": "How do I participate in the Raffle?",
+            "A": "To participate in the Raffle, you must first purchase a ticket using WDYM tokens. You can also buy WDYM tokens instantly by clicking on the 'Buy WDYM Token' button, which will open the swap modal window."
+        },
+        {
+            "Q": "How much does a ticket cost?",
+            "A": "The cost of a ticket is dynamic and depends on the number of tickets you have already purchased, however, a single ticket will cost 1 WDYM and the more you purchase the lower each ticket price will be. The price of each ticket decreases as more tickets are bought by the user with the same wallet and same Raffle ID, which encourages participation to purchase more hoping for a better change while cheaper ticket rates and helps to sustain the pool value for the raffle. This also ensures that the prize pool grows as more people participate."
+        },
+        {
+            "Q": "How many tickets can I buy?",
+            "A": "You can buy as many tickets as you want, increasing your chances of winning the prize."
+        },
+        {
+            "Q": "I tried buying tickets but when i click nothing happens?",
+            "A": "First will to check if you have approve allowance for the contract for ticket purchasing, this is mostly a one time thing only."
+        },
+        {
+            "Q": "Ok, i have approve allowance for the contract but still nothing happens?",
+            "A": "Make sure that you have sufficient WDYM tokens in your wallet with the amount of tickets that you are buying."
+        },
+        {
+            "Q": "Can i sell my tickets after purchase?",
+            "A": "No, tickets sold are final and directly stored in the contract memory."
+        },
+        {
+            "Q": "Can i sell my tickets to other people?",
+            "A": "No, tickets stored in the contract memory and is not a token with transfer ability."
+        },
+        {
+            "Q": "How do I know if I have won?",
+            "A": "Once the raffle has ended and winning draw number is revealed, users are able to check their winning tickets under finished Raffle section."
+        },
+        {
+            "Q": "How do I claim my winnings?",
+            "A": "Once the raffle has ended and winning draw number is revealed, users are able to check their winning tickets under finished Raffle section. Users would then be able to claim their winnings by clicking on the claim button."
+        },
+        {
+            "Q": "Can i claim multiple tickets that have the same match 1 for example?",
+            "A": "Yes, you can claim multiple tickets that have the same match 1,2 etc, however you would need to claim them one by one."
+        },
+        {
+            "Q": "What if i forgot to claim my tickets from few previous Raffle ID?",
+            "A": "You can always go back to the previous Raffle ID and claim your tickets at any given time."
+        },
+        {
+            "Q": "Why is the total WDYM in the smart contract and pool different in value?",
+            "A": "This is due to when the contract detect winners, it stores aside the winning amount and only carry forward the balance to the next pool."
+        },
+        {
+            "Q": "Why is my ticket not showing up after purchase?",
+            "A": "This is due WhatDoYouMeme dapp is currently only utilizing public RPC and it gets congested at times, a simple reload of the page will fix it and show up."
+        },
+        {
+            "Q": "Why is my winning ticket showing X numbers but i don't see any tickets?",
+            "A": "This is due WhatDoYouMeme dapp is currently only utilizing public RPC and it gets congested at times, a simple reload of the page will fix it and show up."
+        },
+        {
+            "Q": "I have tried all the above but my tickets are still not showing up?",
+            "A": "First step would to ensure that your wallet is connected, secondly is to ensure its on the correct network which is Binance Smart Chain. Lastly would be to ensure its the correct wallet connected."
+        },
+        {
+            "Q": "Why are my claims for Match 1 in value are different at times, it says 1.98% but i get less?",
+            "A": "This is due to each Match are 1.98% of the total pool value and it is split and distributed to the total of all winners that have winning tickets for Match 1."
+        },
+        {
+            "Q": "I won multiple tickets that have multiple Match 1 through 6, can i claim all?",
+            "A": "Yes, you can claim all your winning tickets for any Match, however you would need to claim them one by one."
+        },
+        {
+            "Q": "I saw the timer countdown has ended but the drawn number for that Raffle ID is still not shown?",
+            "A": "This is due to the reveal final draw number has not been initiated by anyone."
+        },
+        {
+            "Q": "Can i initiate the final draw number then?",
+            "A": "Yes you can, anyone can initiate the final draw number reveal by clicking on the reveal button even tho they did not buy any tickets."
+        },
+        {
+            "Q": "Can the current Raffle token, which is WDYM, be removed using the token recovery function in the Raffle smart contract?",
+            "A": "No, it is not possible to remove the current Raffle token using the token recovery function in the Raffle smart contract. This ensures all WDYM funds are safe and secure."
+        },
+        {
+            "Q": "Is it possible to change the Raffle token requirement anytime?",
+            "A": "No, it is only possible to change the Raffle token when the Raffle is not running. Once the Raffle is running, it is not possible to change the Raffle token."
+        }
+    ],
+    "staking": [
+        {
+            "Q": "How can I claim my rewards? Is it required to claim for each stakeID?",
+            "A": "You can claim your rewards via the DApp. It is not necessary to claim for each stakeID; you can claim all rewards simultaneously."
+        },
+        {
+            "Q": "Will my rewards vanish if I unstake without prior claim?",
+            "A": "No, any available rewards will be automatically claimed and transferred to your wallet during the unstaking process."
+        },
+        {
+            "Q": "What is the token quantity limit for staking?",
+            "A": "There are no specific minimum or maximum constraints for staking."
+        },
+        {
+            "Q": "Will my rewards be lost if I don't claim from the initial pool deposited?",
+            "A": "No, your rewards continue to accumulate for each pool and can be claimed at your convenience."
+        },
+        {
+            "Q": "I have approved the allowance for the contract, but nothing happens. What should I do?",
+            "A": "Ensure that you have an adequate amount of WDYM tokens in your wallet to match the input amount you specified."
+        },
+        {
+            "Q": "Is it possible to stake multiple times?",
+            "A": "Absolutely, you can perform multiple staking instances as per your preference, each with its unique timeline."
+        },
+        {
+            "Q": "Can I stake the same stake typeID multiple times, e.g., four stakes for 90 days?",
+            "A": "Yes, each stakeID is unique, and you can stake as frequently as desired, providing users with immense flexibility."
+        },
+        {
+            "Q": "Can I stake for 90 days, 180 days, and 365 days simultaneously?",
+            "A": "Indeed, you can. For instance, with 100 WDYM tokens, you could choose to stake 50 WDYM tokens for 90 days, 25 WDYM tokens for 180 days, and 25 WDYM tokens for 365 days. The staking amount is entirely at your discretion."
+        },
+        {
+            "Q": "So when do i receive my rewards? At the end of the staking period?",
+            "A": "No, you will receive your rewards as soon a deposit is done into the pool. The rewards are distributed proportionally to the stakers based on the stake typeID and the total amount of tokens staked for each specific stake type."
+        },
+        {
+            "Q": "Can I contribute to the pool by depositing BNB or BUSD from the DApp?",
+            "A": "Yes, anyone can deposit BUSD or BNB into the pool. However, the rewards are exclusively distributed to the stakers."
+        },
+        {
+            "Q": "I lost access to my wallet, can you assist me in unstaking my tokens?",
+            "A": "Unfortunately, no. It is crucial to ensure the security and safety of all users, meaning even the contract owner cannot retrieve tokens for you. You would need to regain access to your wallet to unstake your tokens."
+        },
+        {
+            "Q": "Is it possible for me to execute a partial emergency withdrawal from my stakeID? Additionally, would the 10% fee apply to the total stakeID amount or just to the portion that I withdraw in an emergency?",
+            "A": "Absolutely, it is feasible to execute a partial emergency withdrawal from your stakeID. As for the associated charges, please note that the 10% penalty would only apply to the portion of funds that you withdraw during the emergency withdrawal process, not the total stakeID amount."
+        },
+        {
+            "Q": "I understand that a 10% penalty fee is applied to the amount I withdraw in an emergency withdrawal situation. Could you provide clarity on the destination of this penalty fee and its subsequent utilization?",
+            "A": "Absolutely. The incurred penalty fee is transferred to a designated penalty wallet. From there, it is strategically allocated: 4% is directed towards development efforts, which allows us to continually enhance our services and platform; the remaining 6% is transferred to a dEAd address, also known as a burn address, effectively reducing the circulating supply of the token."
+        }
+    ]
+}

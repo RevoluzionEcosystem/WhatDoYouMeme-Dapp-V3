@@ -1,0 +1,115 @@
+{
+    "project_title": "What Do You Meme",
+    "project_acronym": "WDYM",
+    "project_description": "What Do You Meme (WDYM) decentralized application (dApp) by Revoluzion.",
+    "project_copyright": "© 2023 — What Do You Meme | All rights reserved",
+    "terms": {
+        "global": "Global",
+        "loading": "Loading",
+        "search": "Search",
+        "of": "of",
+        "type": "Type",
+        "price": "Price",
+        "amount": "Amount",
+        "address": "Address",
+        "txn": "Txn",
+        "breadcrumbs": "Breadcrumb",
+        "go_home": "Go To Homepage",
+        "go_last": "Go to last page",
+        "go_next": "Go to next page",
+        "go_prev": "Go to previous page",
+        "go_first": "Go to first page",
+        "go_back": "Go Back",
+        "go_raffle": "Play Raffle Now",
+        "go_staking": "Start Staking Now",
+        "get_started": "Get Started",
+        "powered_by": "Powered by",
+        "view_contract": "View Smart Contract",
+        "view_explorer": "View On Explorer",
+        "back_home": "Back To Homepage",
+        "prize_pot": "Prize Pot",
+        "read_whitepaper": "Read Whitepaper",
+        "something_wrong": "Oops, something went wrong",
+        "couldnt_find": "Sorry, we couldn't find your page",
+        "time": "Time",
+        "only_latest_300": "Only latest 300 transactions",
+        "rows_per_page": "Rows per page",
+        "page": "Page"
+    },
+    "menu": [
+        {
+            "id": "home",
+            "name": "Home",
+            "link": "/home",
+            "type": "internal"
+        },
+        {
+            "id": "dashboard",
+            "name": "Dashboard",
+            "link": "/dashboard",
+            "type": "internal"
+        },
+        {
+            "id": "raffle",
+            "name": "Raffle",
+            "link": "/raffle",
+            "type": "internal"
+        },
+        {
+            "id": "governance",
+            "name": "Governance",
+            "link": "/governance",
+            "type": "internal"
+        },
+        {
+            "id": "staking",
+            "name": "Staking",
+            "link": "/staking",
+            "type": "internal"
+        },
+        {
+            "id": "swap",
+            "name": "Swap",
+            "link": "/swap",
+            "type": "internal"
+        },
+        {
+            "id": "documentation",
+            "name": "Documentation",
+            "link": "https://what-do-you-meme.gitbook.io/whitepaper/overview/introduction",
+            "type": "external"
+        },
+        {
+            "id": "telegram",
+            "name": "Telegram",
+            "link": "https://t.me/whatdoyoumeme_portal",
+            "type": "external"
+        },
+        {
+            "id": "twitter",
+            "name": "Twitter",
+            "link": "https://www.twitter.com/whatdoyoumeme23",
+            "type": "external"
+        },
+        {
+            "id": "youtube",
+            "name": "Youtube",
+            "link": "https://www.youtube.com/channel/UCsa2z6wT5gX72ISbSy6NlNA",
+            "type": "external"
+        }
+    ],
+    "contract": {
+        "pair": "0x74bcDDb40A6Dc5A4ef80133f1247891615499f92",
+        "token": "0x769c6F0C5c2BcD1B76638BD58e5350f5c94128F3",
+        "governance": "0xA335221cadCaB8810C10E0e1DC6f6a6c97d51059",
+        "stakingOld": "0x01084245Ef65bDC3114d79cF058e97584Bf1A3fd",
+        "staking": "0x49d647045c41Af232F2A5214Eea4545E17248967",
+        "raffle": "0x22DEFeec2169C66cCEEaA3655DFF06f4919B1691",
+        "reward": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    },
+    "development": {
+        "name": "Revoluzion",
+        "link": "https://revoluzion.app",
+        "title": "Revoluzion | Revolutionizing the Blockchain Industry as a One-Stop Service Provider" 
+    }
+}

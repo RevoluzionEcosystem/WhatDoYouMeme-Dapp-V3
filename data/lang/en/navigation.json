@@ -1,0 +1,34 @@
+{
+    "menu": [
+        {
+            "id": "dashboard",
+            "title": "Dashboard",
+            "link": "/dashboard",
+            "category": "explore"
+        },
+        {
+            "id": "token",
+            "title": "Token",
+            "link": "/scanner/token",
+            "category": "scanner"
+        },
+        {
+            "id": "wallet",
+            "title": "Wallet",
+            "link": "/scanner/wallet",
+            "category": "scanner"
+        },
+        {
+            "id": "allowance",
+            "title": "Allowance",
+            "link": "/scanner/allowance",
+            "category": "scanner"
+        },
+        {
+            "id": "website",
+            "title": "website",
+            "link": "/scanner/website",
+            "category": "scanner"
+        }
+    ]
+}

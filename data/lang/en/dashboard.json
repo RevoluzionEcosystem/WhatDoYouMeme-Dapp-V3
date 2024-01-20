@@ -1,0 +1,155 @@
+{
+    "kicker_1": "WDYM Dashboard",
+    "headline_1": "Token Insights at a Glance",
+    "subheadline_1": "Explore comprehensive token insights and uncover the power of WDYM Token",
+    "selector": [
+        {
+            "value": "stats",
+            "title": "Stats"
+        },
+        {
+            "value": "chart",
+            "title": "Chart"
+        },
+        {
+            "value": "transactions",
+            "title": "Transactions"
+        }
+    ],
+    "content": {
+        "stats": {
+            "headline": "Statistics",
+            "subheadline": "This is important stats that you should know",
+            "data": {
+                "totalSupply": {
+                    "title": "Total Supply",
+                    "tooltip": "Coming Soon",
+                    "data": 0
+                },
+                "circulatingSupply": {
+                    "title": "Circulating Supply",
+                    "tooltip": "Coming Soon",
+                    "data": 1
+                },
+                "burnedSupply": {
+                    "title": "Burned Supply",
+                    "tooltip": "Coming Soon",
+                    "data": 2
+                },
+                "liquiditySupply": {
+                    "title": "Liquidity Supply",
+                    "tooltip": "Coming Soon",
+                    "data": 3
+                },
+                "liquidityAvailable": {
+                    "title": "Liquidity Available",
+                    "tooltip": "Coming Soon",
+                    "data": 4
+                },
+                "swapEnabled": {
+                    "title": "Swap Enabled",
+                    "tooltip": "Coming Soon",
+                    "data": 5
+                },
+                "feeActive": {
+                    "title": "Fee Active",
+                    "tooltip": "Coming Soon",
+                    "data": 6
+                },
+                "feeLocked": {
+                    "title": "Fee Locked",
+                    "tooltip": "Coming Soon",
+                    "data": 7
+                },
+                "buyFeeLaunchpad": {
+                    "title": "Buy Fee - Launchpad",
+                    "tooltip": "Coming Soon",
+                    "data": 8
+                },
+                "buyFeeLiquidity": {
+                    "title": "Buy Fee - Liquidity",
+                    "tooltip": "Coming Soon",
+                    "data": 9
+                },
+                "sellFeeLaunchpad": {
+                    "title": "Sell Fee - Launchpad",
+                    "tooltip": "Coming Soon",
+                    "data": 10
+                },
+                "sellFeeLiquidity": {
+                    "title": "Sell Fee - Liquidity",
+                    "tooltip": "Coming Soon",
+                    "data": 11
+                },
+                "transferFeeLaunchpad": {
+                    "title": "Transfer Fee - Launchpad",
+                    "tooltip": "Coming Soon",
+                    "data": 12
+                },
+                "transferFeeLiquidity": {
+                    "title": "Transfer Fee - Liquidity",
+                    "tooltip": "Coming Soon",
+                    "data": 13
+                },
+                "totalBuyFee": {
+                    "title": "Total Buy Fee",
+                    "tooltip": "Coming Soon",
+                    "data": 14
+                },
+                "totalSellFee": {
+                    "title": "Total Sell Fee",
+                    "tooltip": "Coming Soon",
+                    "data": 15
+                },
+                "totalTransferFee": {
+                    "title": "Total Transfer Fee",
+                    "tooltip": "Coming Soon",
+                    "data": 16
+                },
+                "swapThreshold": {
+                    "title": "Swap Threshold",
+                    "tooltip": "Coming Soon",
+                    "data": 17
+                },
+                "launchpadTotalCollected": {
+                    "title": "Launchpad - Total Collected",
+                    "tooltip": "Coming Soon",
+                    "data": 18
+                },
+                "launchpadTotalRedeemed": {
+                    "title": "Launchpad - Total Redeemed",
+                    "tooltip": "Coming Soon",
+                    "data": 19
+                },
+                "liquidityTotalCollected": {
+                    "title": "Liquidity - Total Collected",
+                    "tooltip": "Coming Soon",
+                    "data": 20
+                },
+                "liquidityTotalRedeemed": {
+                    "title": "Liquidity - Total Redeemed",
+                    "tooltip": "Coming Soon",
+                    "data": 21
+                },
+                "totalCollected": {
+                    "title": "Total Collected",
+                    "tooltip": "Coming Soon",
+                    "data": 22
+                },
+                "totalRedeemed": {
+                    "title": "Total Redeemed",
+                    "tooltip": "Coming Soon",
+                    "data": 23
+                }
+            }
+        },
+        "chart": {
+            "headline": "Token Chart",
+            "subheadline": "Monitor the price, volume and more with our token chart"
+        },
+        "transactions": {
+            "headline": "Transactions History",
+            "subheadline": "A list of transactions for our token"
+        }
+    }
+}

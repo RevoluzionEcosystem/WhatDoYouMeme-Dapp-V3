@@ -1,0 +1,113 @@
+{
+    "kicker_1": "WDYM Raffle",
+    "headline_1": "Dare to Dream, Play to Win",
+    "subheadline_1": "Embark on an unforgettable journey of luck and rewards",
+    "button_1": "View smart contract",
+    "button_2": "Back to homepage",
+    "selector": [
+        {
+            "value": "general",
+            "title": "General"
+        },
+        {
+            "value": "raffle",
+            "title": "Raffle"
+        },
+        {
+            "value": "self",
+            "title": "My Raffle(s)"
+        }
+    ],
+    "content": {
+        "general": {
+            "headline": "General Raffle Information",
+            "subheadline": "This is general information that you should know about WDYM Raffle"
+        },
+        "raffle": {
+            "headline": "All Raffle Statistics",
+            "subheadline": "This is important stats on WDYM Raffle that you should know",
+            "data": [
+                {
+                    "title": "Current Lottery ID",
+                    "tooltip": "Coming Soon",
+                    "data": 0
+                },
+                {
+                    "title": "Current Ticket ID",
+                    "tooltip": "Coming Soon",
+                    "data": 1
+                },
+                {
+                    "title": "Total Injected Rewards",
+                    "tooltip": "Coming Soon",
+                    "data": 2
+                },
+                {
+                    "title": "Total Rewards Distributed",
+                    "tooltip": "Coming Soon",
+                    "data": 3
+                },
+                {
+                    "title": "Current Ticket Price",
+                    "tooltip": "Coming Soon",
+                    "data": 4
+                },
+                {
+                    "title": "Current Treasury Fee",
+                    "tooltip": "Coming Soon",
+                    "data": 5
+                }
+            ]
+        },
+        "self": {
+            "headline": "My Raffle Information",
+            "subheadline": "You can find all raffle related features connected to your account here",
+            "data": [
+                {
+                    "title": "Total Reward Received",
+                    "tooltip": "Coming Soon",
+                    "data": 0
+                },
+                {
+                    "title": "Total Ticket Purchased",
+                    "tooltip": "Coming Soon",
+                    "data": 1
+                }
+            ]
+        }
+    },
+    "raffle": {
+        "data": [
+            {
+                "title": "Match First 1",
+                "tooltip": "Coming Soon",
+                "data": 0
+            },
+            {
+                "title": "Match First 2",
+                "tooltip": "Coming Soon",
+                "data": 1
+            },
+            {
+                "title": "Match First 3",
+                "tooltip": "Coming Soon",
+                "data": 2
+            },
+            {
+                "title": "Match First 4",
+                "tooltip": "Coming Soon",
+                "data": 3
+            },
+            {
+                "title": "Match First 5",
+                "tooltip": "Coming Soon",
+                "data": 4
+            },
+            {
+                "title": "Match First 6",
+                "tooltip": "Coming Soon",
+                "data": 5
+            }
+        ]
+    }
+}

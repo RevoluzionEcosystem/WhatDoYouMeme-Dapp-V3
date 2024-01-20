@@ -1,0 +1,67 @@
+{
+    "kicker_1": "WDYM Governance",
+    "headline_1": "Your Voice, Your Governance",
+    "subheadline_1": "Influence the course of the project with your voice and votes",
+    "selector": [
+        {
+            "value": "general",
+            "title": "General"
+        },
+        {
+            "value": "governance",
+            "title": "Governance"
+        },
+        {
+            "value": "self",
+            "title": "My Vote(s)"
+        }
+    ],
+    "content": {
+        "general": {
+            "headline": "General Governance Information",
+            "subheadline": "This is general information that you should know about WDYM Governance"
+        },
+        "governance": {
+            "headline": "All Governance Statistics",
+            "subheadline": "This is important stats on WDYM Governance that you should know",
+            "data": [
+                {
+                    "title": "Total Proposals Created",
+                    "tooltip": "Coming Soon",
+                    "data": 0
+                },
+                {
+                    "title": "Total Votes Casted",
+                    "tooltip": "Coming Soon",
+                    "data": 1
+                },
+                {
+                    "title": "Total Voters Participated",
+                    "tooltip": "Coming Soon",
+                    "data": 2
+                },
+                {
+                    "title": "Total Eligible Voters",
+                    "tooltip": "Coming Soon",
+                    "data": 3
+                }
+            ]
+        },
+        "self": {
+            "headline": "My Vote Information",
+            "subheadline": "You can find all governance related features connected to your account here",
+            "data": [
+                {
+                    "title": "Total Proposals Voted",
+                    "tooltip": "Coming Soon",
+                    "data": 0
+                },
+                {
+                    "title": "Total Votes Casted",
+                    "tooltip": "Coming Soon",
+                    "data": 1
+                }
+            ]
+        }
+    }
+}

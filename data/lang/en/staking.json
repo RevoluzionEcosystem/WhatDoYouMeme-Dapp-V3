@@ -1,0 +1,232 @@
+{
+    "kicker_1": "WDYM Staking",
+    "headline_1": "Supercharge Your Earnings with Token Staking",
+    "subheadline_1": "Dive into token staking for boundless earnings and a journey to prosperity",
+    "button_1": "View smart contract",
+    "button_2": "Back to homepage",
+    "selector": [
+        {
+            "value": "general",
+            "title": "General"
+        },
+        {
+            "value": "staking",
+            "title": "Staking"
+        },
+        {
+            "value": "self",
+            "title": "My Stake(s)"
+        }
+    ],
+    "content": {
+        "general": {
+            "headline": "General Staking Information",
+            "subheadline": "This is general information that you should know about WDYM Staking"
+        },
+        "staking": {
+            "headline": "All Staking Statistics",
+            "subheadline": "This is important stats on WDYM Staking that you should know",
+            "data": [
+                {
+                    "title": "Total Amount Staked",
+                    "tooltip": "Coming Soon",
+                    "data": 0
+                },
+                {
+                    "title": "Total Amount Distributed",
+                    "tooltip": "Coming Soon",
+                    "data": 1
+                },
+                {
+                    "title": "Total Amount Deposited",
+                    "tooltip": "Coming Soon",
+                    "data": 2
+                },
+                {
+                    "title": "Amount To Redistribute",
+                    "tooltip": "Coming Soon",
+                    "data": 3
+                },
+                {
+                    "title": "Stake Tiers",
+                    "tooltip": "Coming Soon",
+                    "data": 4
+                },
+                {
+                    "title": "Penalty Amount",
+                    "tooltip": "Coming Soon",
+                    "data": 5
+                },
+                {
+                    "title": "Penalty Enabled",
+                    "tooltip": "Coming Soon",
+                    "data": 6
+                },
+                {
+                    "title": "Emergency Withdraw",
+                    "tooltip": "Coming Soon",
+                    "data": 7
+                }
+            ]
+        },
+        "self": {
+            "headline": "My Staking Information",
+            "subheadline": "You can find all staking related features connected to your account here",
+            "data": [
+                {
+                    "title": "Total Staked",
+                    "tooltip": "Coming Soon",
+                    "data": 0
+                },
+                {
+                    "title": "Total Staking",
+                    "tooltip": "Coming Soon",
+                    "data": 1
+                },
+                {
+                    "title": "Active Staking",
+                    "tooltip": "Coming Soon",
+                    "data": 2
+                },
+                {
+                    "title": "Inactive Staking",
+                    "tooltip": "Coming Soon",
+                    "data": 3
+                }
+            ],
+            "section_1": "Functions",
+            "functions": [
+                {
+                    "title": "Stake Token",
+                    "tooltip": "Coming Soon",
+                    "data": 0
+                },
+                {
+                    "title": "Unstake Token",
+                    "tooltip": "Coming Soon",
+                    "data": 1
+                },
+                {
+                    "title": "Emergency Withdraw",
+                    "tooltip": "Coming Soon",
+                    "data": 2
+                },
+                {
+                    "title": "Approve Allowance",
+                    "tooltip": "Coming Soon",
+                    "data": 3
+                },
+                {
+                    "title": "Claim Rewards",
+                    "tooltip": "Coming Soon",
+                    "data": 4
+                },
+                {
+                    "title": "All Rewards",
+                    "tooltip": "Coming Soon",
+                    "data": 5
+                }
+            ],
+            "section_2": "Contribute",
+            "contribute": [
+                {
+                    "title": "Contribute using BNB to Reward Pool",
+                    "tooltip": "Coming Soon",
+                    "data": 0
+                },
+                {
+                    "title": "Contribute using BUSD to Reward Pool",
+                    "tooltip": "Coming Soon",
+                    "data": 1
+                },
+                {
+                    "title": "Redistribute Stucked BNB",
+                    "tooltip": "Coming Soon",
+                    "data": 2
+                },
+                {
+                    "title": "Redistribute Stucked BUSD",
+                    "tooltip": "Coming Soon",
+                    "data": 3
+                }
+            ],
+            "function_stake": {
+                "stake": {
+                    "option1": "Staking Period",
+                    "option1_placeholder": "Select a staking period",
+                    "option1_group": "List of staking period",
+                    "option2": "Amount To Stake",
+                    "option2_placeholder": "Enter amount to stake",
+                    "token_balance": "Token Balance",
+                    "button": "Stake WDYM Token"
+                },
+                "unstake": {
+                    "option1": "Stake ID",
+                    "option1_placeholder": "Select your staking",
+                    "option1_group": "List of your staking",
+                    "option2": "Amount To Unstake",
+                    "option2_placeholder": "Enter amount to unstake",
+                    "token_staked": "Token Staked",
+                    "button": "Unstake WDYM Token"
+                },
+                "emergency_withdraw": {
+                    "option1": "Stake ID",
+                    "option1_placeholder": "Select your staking",
+                    "option1_group": "List of your staking",
+                    "option2": "Amount To Withdraw",
+                    "option2_placeholder": "Enter amount to withdraw",
+                    "token_staked": "Token Staked",
+                    "button": "Withdraw Amount"
+                },
+                "approve_allowance": {
+                    "option1": "WDYM Smart Contract",
+                    "option1_placeholder": "Select a smart contract",
+                    "option1_group": "List of WDYM smart contracts",
+                    "option2": "Allowance To Give",
+                    "option2_placeholder": "Enter allowance amount",
+                    "current_allowance": "Current Allowance",
+                    "button": "Give Allowance"
+                },
+                "claim_rewards": {
+                    "option1": "Stake ID",
+                    "option1_placeholder": "Select your staking",
+                    "option1_group": "List of your staking",
+                    "option2": "Pool ID",
+                    "option2_placeholder": "Select reward pool",
+                    "option2_group": "List of reward pool",
+                    "button": "Claim Rewards"
+                },
+                "all_rewards": {
+                    "description": "Claim all your rewards with just one click of a button",
+                    "button": "Claim All"
+                }
+            },
+            "contribute_stake": {
+                "contribute_bnb": {
+                    "option1": "Amount To Deposit",
+                    "option1_placeholder": "Enter amount to deposit",
+                    "balance": "BNB Balance",
+                    "button": "Deposit BNB"
+                },
+                "contribute_busd": {
+                    "option1": "Amount To Deposit",
+                    "option1_placeholder": "Enter amount to deposit",
+                    "balance": "BUSD Balance",
+                    "button": "Deposit BUSD"
+                },
+                "redistribute_bnb": {
+                    "option1": "Amount To Deposit",
+                    "option1_placeholder": "Enter amount to deposit",
+                    "balance": "BNB Stucked",
+                    "button": "Deposit Stucked BNB"
+                },
+                "redistribute_busd": {
+                    "option1": "Amount To Deposit",
+                    "option1_placeholder": "Enter amount to deposit",
+                    "balance": "BUSD Stucked",
+                    "button": "Deposit Stucked BUSD"
+                }
+            }
+        }
+    }
+}

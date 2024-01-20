@@ -1,0 +1,108 @@
+{
+    "headline_1_1": "Invest in Crypto Startups and",
+    "headline_1_2": "Claim Your Share",
+    "headline_2_1": "Prefer",
+    "headline_2_2": "Not to Read",
+    "headline_3_1": "Ready to",
+    "headline_3_2": "Participate",
+    "headline_4_1": "Frequently",
+    "headline_4_2": "Asked Question(s)",
+    "subheadline_1": "Empowering visionaries with hand-picked crypto experts and custom-built solutions",
+    "subheadline_2": "Watch the video to streamline your experience and simplify your journey",
+    "subheadline_3": "Explore all the categories available now and define your own path within our ecosystem",
+    "subheadline_4": "Answers to the most frequently asked questions",
+    "subsection_1": "Partners, Backers & Listings",
+    "button_1": "Get started",
+    "button_2": "Read whitepaper",
+    "involve": {
+        "raffle": {
+            "name": "Raffle",
+            "description": "Play and Earn",
+            "image": "/assets/images/involve-raffle.jpg"
+        },
+        "governance": {
+            "name": "Governance",
+            "description": "Participate and Vote",
+            "image": "/assets/images/involve-governance.jpg"
+        },
+        "staking": {
+            "name": "Staking",
+            "description": "Stake and Earn",
+            "image": "/assets/images/involve-staking.jpg"
+        },
+        "youtube": {
+            "name": "Youtube",
+            "description": "Learn about Projects",
+            "image": "/assets/images/involve-youtube.jpg"
+        },
+        "community": {
+            "name": "Community",
+            "description": "Join and Interact",
+            "image": "/assets/images/involve-community.jpg"
+        }
+    },
+    "logos": [
+        {
+            "name": "PinkSale",
+            "src": {
+                "dark": "/assets/images/dark-pinksale.png",
+                "light": "/assets/images/light-pinksale.png"
+            }
+        },
+        {
+            "name": "SolidProof",
+            "src": {
+                "dark": "/assets/images/dark-solidproof.png",
+                "light": "/assets/images/light-solidproof.png"
+            }
+        },
+        {
+            "name": "PancakeSwap",
+            "src": {
+                "dark": "/assets/images/dark-pancakeswap.png",
+                "light": "/assets/images/light-pancakeswap.png"
+            }
+        },
+        {
+            "name": "DexView",
+            "src": {
+                "dark": "/assets/images/dark-dexview.png",
+                "light": "/assets/images/light-dexview.png"
+            }
+        },
+        {
+            "name": "CoinGecko",
+            "src": {
+                "dark": "/assets/images/dark-coingecko.png",
+                "light": "/assets/images/light-coingecko.png"
+            }
+        },
+        {
+            "name": "CoinMarketCap",
+            "src": {
+                "dark": "/assets/images/dark-coinmarketcap.png",
+                "light": "/assets/images/light-coinmarketcap.png"
+            }
+        }
+    ],
+    "selector": [
+        {
+            "value": "raffle",
+            "title": "Raffle"
+        },
+        {
+            "value": "staking",
+            "title": "Staking"
+        }
+    ],
+    "content": {
+        "raffle": {
+            "headline": "Raffle FAQs",
+            "subheadline": "Some of the most frequently asked questions related to WDYM Raffle"
+        },
+        "staking": {
+            "headline": "Staking FAQs",
+            "subheadline": "Some of the most frequently asked questions related to WDYM Staking"
+        }
+    }
+}
