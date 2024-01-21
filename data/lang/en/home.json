@@ -50,10 +50,10 @@
             }
         },
         {
-            "name": "PinkSale",
+            "name": "PancakeSwap",
             "src": {
-                "dark": "/assets/images/dark-pinksale.png",
-                "light": "/assets/images/light-pinksale.png"
+                "dark": "/assets/images/dark-pancakeswap.png",
+                "light": "/assets/images/light-pancakeswap.png"
             }
         },
         {
