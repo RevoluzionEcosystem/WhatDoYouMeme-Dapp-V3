@@ -43,6 +43,13 @@
     },
     "logos": [
         {
+            "name": "Revoluzion",
+            "src": {
+                "dark": "/assets/images/dark-revoluzion.png",
+                "light": "/assets/images/light-revoluzion.png"
+            }
+        },
+        {
             "name": "PinkSale",
             "src": {
                 "dark": "/assets/images/dark-pinksale.png",
@@ -54,13 +61,6 @@
             "src": {
                 "dark": "/assets/images/dark-solidproof.png",
                 "light": "/assets/images/light-solidproof.png"
-            }
-        },
-        {
-            "name": "PancakeSwap",
-            "src": {
-                "dark": "/assets/images/dark-pancakeswap.png",
-                "light": "/assets/images/light-pancakeswap.png"
             }
         },
         {
