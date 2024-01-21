@@ -26,74 +26,74 @@
         "staking": {
             "headline": "All Staking Statistics",
             "subheadline": "This is important stats on WDYM Staking that you should know",
-            "data": [
-                {
+            "data": {
+                "totalAmountStaked": {
                     "title": "Total Amount Staked",
                     "tooltip": "Coming Soon",
                     "data": 0
                 },
-                {
+                "totalAmountDistributed": {
                     "title": "Total Amount Distributed",
                     "tooltip": "Coming Soon",
                     "data": 1
                 },
-                {
+                "totalAmountDeposited": {
                     "title": "Total Amount Deposited",
                     "tooltip": "Coming Soon",
                     "data": 2
                 },
-                {
+                "amountToRedistribute": {
                     "title": "Amount To Redistribute",
                     "tooltip": "Coming Soon",
                     "data": 3
                 },
-                {
+                "stakeTiers": {
                     "title": "Stake Tiers",
                     "tooltip": "Coming Soon",
                     "data": 4
                 },
-                {
+                "penaltyAmount": {
                     "title": "Penalty Amount",
                     "tooltip": "Coming Soon",
                     "data": 5
                 },
-                {
+                "penaltyEnabled": {
                     "title": "Penalty Enabled",
                     "tooltip": "Coming Soon",
                     "data": 6
                 },
-                {
+                "emergencyWithdraw": {
                     "title": "Emergency Withdraw",
                     "tooltip": "Coming Soon",
                     "data": 7
                 }
-            ]
+            }
         },
         "self": {
             "headline": "My Staking Information",
             "subheadline": "You can find all staking related features connected to your account here",
-            "data": [
-                {
+            "data": {
+                "totalStaked":{
                     "title": "Total Staked",
                     "tooltip": "Coming Soon",
                     "data": 0
                 },
-                {
+                "totalStaking": {
                     "title": "Total Staking",
                     "tooltip": "Coming Soon",
                     "data": 1
                 },
-                {
+                "activeStaking": {
                     "title": "Active Staking",
                     "tooltip": "Coming Soon",
                     "data": 2
                 },
-                {
+                "inactiveStaking": {
                     "title": "Inactive Staking",
                     "tooltip": "Coming Soon",
                     "data": 3
                 }
-            ],
+            },
             "section_1": "Functions",
             "functions": [
                 {
