@@ -2,7 +2,7 @@
 
 import { createWeb3Modal, defaultWagmiConfig } from '@web3modal/wagmi/react'
 import { WagmiConfig } from 'wagmi'
-import { bsc } from 'wagmi/chains'
+import { Chain, bsc } from 'wagmi/chains'
 
 import info from "../data/lang/en/general.json"
 
@@ -18,7 +18,8 @@ const metadata = {
         siteUrl + "assets/images/wdym.webp"
     ]
 }
-const wagmiConfig = defaultWagmiConfig({ chains, projectId, metadata })
+
+const wagmiConfig = defaultWagmiConfig({ chains: [bsc], projectId, metadata: { ...metadata, verifyUrl: '' } })
 
 export default function Web3Wrapper({
     children, mode
@@ -26,7 +27,7 @@ export default function Web3Wrapper({
     createWeb3Modal({
         wagmiConfig,
         projectId,
-        chains,
+        chains: Object.values(chains) as unknown as [Chain, ...Chain[]],
         themeMode: mode,
         themeVariables: {
             "--w3m-accent": "#09D1D8FF",
