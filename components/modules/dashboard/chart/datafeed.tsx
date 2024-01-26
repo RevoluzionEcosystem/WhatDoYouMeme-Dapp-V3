@@ -86,7 +86,7 @@ export default {
             }
             
             let bars = []
-            data.forEach(bar => {
+            data.reverse().forEach(bar => {
                 if (bar[0] < to) {
                     bars = [...bars, {
                         time: bar[0] * 1000,
